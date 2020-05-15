@@ -15,8 +15,6 @@ const Card = styled.div `
     color: #443e3e;
     text-shadow: 1px 1px 5px #fff;	margin: 25px 0px;
 	padding: 15px 0px;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
 `
 
 const Character = props => {
